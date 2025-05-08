@@ -1,0 +1,4 @@
+||youtube.com
+||googlevideo.com
+||youtubei.googleapis.com
+||ytimg.com
